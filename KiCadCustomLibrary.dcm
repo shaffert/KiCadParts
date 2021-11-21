@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX31850JATB+
+D IC CONV THRMCPLE-DIG J TYPE TDFN
+K Thermocouple
+F https://datasheets.maximintegrated.com/en/ds/MAX31850-MAX31851.pdf
+$ENDCMP
+#
+#End Doc Library
